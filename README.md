@@ -1,3 +1,3 @@
 # knowledge-base
 
-Company Knowledge Base
+Go to the "Wiki" tab to view content.
