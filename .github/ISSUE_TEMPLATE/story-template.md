@@ -16,4 +16,13 @@ This story consists of the following tasks,
 - [ ] Task 01
 - [ ] Task 02
 
-You can convert each task to an issue later on
+You can convert each task to an issue later on.
+
+** Workflows**
+Link any Miro frames for workflows.
+
+**UI/UX**
+Link Figma/Avocode or upload attachments.
+
+**Assumptions & Decisions**
+Keep this section updated while the project is progressing.
