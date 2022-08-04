@@ -10,15 +10,15 @@ assignees: ''
 Story Name
 =========
 
-A brief description on what the story is and the expectation.
+A brief description of what the story is and the expectation.
 
-This story consists of the following tasks,
+**Tasks**
 - [ ] Task 01
 - [ ] Task 02
 
 You can convert each task to an issue later on.
 
-** Workflows**
+**Workflows**
 Link any Miro frames for workflows.
 
 **UI/UX**
